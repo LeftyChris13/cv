@@ -1,6 +1,11 @@
-body {
-    background-image: linear-gradient(180deg, rgb(107, 32, 150), rgb(255, 255, 255));
-}
+body{
+    background-image:url(https://i.gifer.com/9bc1.gif);
+    background-position:top;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+
+    }
 
 hr {
     border-style: ridge;
