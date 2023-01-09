@@ -1,0 +1,17 @@
+body {
+    background-image: linear-gradient(180deg, rgb(170, 156, 253), rgb(250, 250, 179));
+}
+
+hr {
+    border-style: ridge;
+    border-color: black;
+    width: 100%;
+
+}
+
+img {
+    height: 250px;
+}
+
+
+
