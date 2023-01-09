@@ -3,9 +3,9 @@ body{
     background-position:left;
     background-size: contain;
     background-position-y: 1px;
-    background-position-x: 800px;
+    background-position-x: 700px;
     background-repeat: no-repeat;
-    height: 500px
+    height: 350px
 }
 
 hr {
