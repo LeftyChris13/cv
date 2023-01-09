@@ -1,11 +1,11 @@
 body{
     background-image:url(https://i.gifer.com/origin/05/057483a3866aaedb88138a8d9fd68321_w200.gif);
-    background-position:top;
+    background-position:left;
     background-size: contain;
-    background-position-y: 40px;
-    background-position-x: 800px;
+    background-position-y: 1px;
+    background-position-x: 700px;
     background-repeat: no-repeat;
-    height: 450px
+    height: 300px
 }
 
 hr {
