@@ -1,11 +1,11 @@
 body{
-    background-image:url(https://www.icegif.com/wp-content/uploads/math-animated-icegif-5.gif);
+    background-image:url(https://i.gifer.com/DMvP.gif);
     background-position:center;
     background-size: contain;
-    background-position-y: 500px;
-    background-position-x: 600px;
+    background-position-y: 250px;
+    background-position-x: 650px;
     background-repeat: no-repeat;
-    height: 400px
+    height: 500px
 }
 hr {
     border-style: ridge;
