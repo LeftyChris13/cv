@@ -1,3 +1,4 @@
+
 body{
     background-image:url(https://i.gifer.com/9bc1.gif);
     background-position:top;
@@ -15,8 +16,7 @@ hr {
 }
 
 img {
-    height: 250px;
-    border-radius: 5px;
+    border-radius: 3px;
 
 }
 .center {
