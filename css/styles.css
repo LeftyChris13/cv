@@ -1,21 +1,86 @@
-body{
-    background-image:url(https://i.gifer.com/origin/21/217868d8fbaf4f2768b4e37c2f48eb35.gif);
-    background-position:center;
-    background-size: contain;
-    background-position-y: 10px;
-    background-position-x: 505px;
-    background-repeat: no-repeat;
-    height: 800px
+.Container1{
+    background-color:rgb(91, 231, 224);
+    height: 200px;
+    position: static;
+    border-radius: 5px;
 }
 
-
-hr {
-    border-style: ridge;
-    border-color: black;
-    width: 100%;
-
+/* Chris */
+.Container2{
+    background-color: rgb(176, 155, 235);
+    height: 215px;
+    width: 500px;
+    position: relative;
+    bottom: 100px;
+    margin: -5px;
+    border-radius: 20px;
 }
+
+/* Educator */ 
+.Container3{
+    background-color: rgb(91, 231, 224);
+    height: 400px;
+    width: 500px;
+    position: relative;
+    bottom: 100px;
+    left: 100px;
+    border-radius: 20px;
+    }
+
+/* Education */
+.Container4{
+    background-color:rgb(176, 155, 235);
+    height: 200px;
+    width: 300px;
+    position: relative;
+    bottom: 305px;
+    left: 105px;
+    border-radius: 20px
+    }
+
+
+ /* Research */
+.Container5{
+    background-color: rgb(176, 155, 235);
+    height: 350px;
+    width: 420px;
+    position: relative;
+    bottom: 750px;
+    left: 400px;
+    border-radius: 20px;
+    }
+
+
+.Container6{
+    background-color: rgb(91, 231, 224);
+    height: 300px;
+    position: relative;
+    border-radius: 10px;
+    }
+
+
 
 img {
+    height: 170px;
+}
+
+.img2 {
+    background-repeat: no-repeat;
     height: 250px;
+    width: 250px;
+    position: relative;
+    bottom: 200px;
+    left: 510px;
+    border-radius: 20px;
+}
+
+
+.img3 {
+    background-repeat: no-repeat;
+    height: 210px;
+    width: 400px;
+    position: relative;
+    bottom: 970px;
+    left: 410px;
+    border-radius: 20px;
 }
