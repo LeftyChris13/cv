@@ -2,7 +2,7 @@
 .Container1{
     background-color:rgb(91, 231, 224);
     height: 170px;
-    position: static;
+    position: relative;
     border-radius: 5px;
 }
 
@@ -12,8 +12,8 @@
     height: 215px;
     width: 500px;
     position: relative;
-    bottom: 100px;
-    margin: -5px;
+    bottom: 110px;
+    margin: -8px;
     border-radius: 20px;
 }
 
@@ -54,8 +54,8 @@
 
 .Container6{
     background-color: rgb(91, 231, 224);
-    height: 300px;
-    position: relative;
+    height: 400px;
+    position: static;
     border-radius: 10px;
     }
 
@@ -71,8 +71,8 @@ img {
     height: 600px;
     width: 600px;
     position: relative;
-    bottom: 200px;
-    left: 510px;
+    bottom: 100px;
+    left: 310px;
     border-radius: 20px;
 }
 
