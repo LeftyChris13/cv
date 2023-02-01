@@ -17,11 +17,37 @@
     border-radius: 20px;
 }
 
+/* Coming Soon */ 
+.Container3{
+    background-color: #ececec;
+    height: 180px;
+    width: 300px;
+    position: relative;
+    bottom: 40px;
+    left: 200px;
+    border-radius: 20px;
+    }
+
+/* Education */
+.Container4{
+    background-color:#51c4e9;
+    height: 180px;
+    width: 300px;
+    position: relative;
+    bottom: 220px;
+    left: 505px;
+    border-radius: 20px
+    }
+
 hr {
     border-style: ridge;
     border-color: black;
     width: 100%;
 
+}
+
+img {
+    height: 150px;
 }
 
 .img1 {
@@ -34,6 +60,7 @@ hr {
     margin: -7px;
     border-radius: 30px;  
 }
+
 
 a {
     color: #142d4c;

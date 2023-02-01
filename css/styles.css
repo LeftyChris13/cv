@@ -12,7 +12,7 @@
     height: 215px;
     width: 500px;
     position: relative;
-    bottom: 110px;
+    bottom: 130px;
     margin: -8px;
     border-radius: 20px;
 }
@@ -27,7 +27,7 @@ h1{
     height: 200px;
     width: 300px;
     position: relative;
-    bottom: 100px;
+    bottom: 50px;
     left: 200px;
     border-radius: 20px;
     }
@@ -38,7 +38,7 @@ h1{
     height: 200px;
     width: 300px;
     position: relative;
-    bottom: 300px;
+    bottom: 250px;
     left: 505px;
     border-radius: 20px
     }
@@ -47,10 +47,10 @@ h1{
  /* Research */
 .Container5{
     background-color:rgb(91, 231, 224);
-    height: 550px;
+    height: 450px;
     width: 610px;
     position: relative;
-    bottom: 295px;
+    bottom: 245px;
     left: 200px;
     border-radius: 20px;
     }
@@ -72,21 +72,21 @@ img {
 .img2 {
     background-repeat: no-repeat;
     background-size: contain;
-    height: 600px;
-    width: 600px;
+    height: 500px;
+    width: 500px;
     position: relative;
-    bottom: 100px;
-    left: 210px;
+    bottom: 50px;
+    left: 250px;
     border-radius: 20px;
 }
 
 /* Research */
 .img3 {
     background-repeat: no-repeat;
-    height: 415px;
+    height: 320px;
     width: 600px;
     position: relative;
-    bottom: 720px;
+    bottom: 570px;
     left: 205px;
     border-radius: 20px;
 }
