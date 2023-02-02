@@ -50,15 +50,20 @@ img {
     width: 300px;
 }
 
+.img4 {
+  height: 380px; 
+  width: 300px;
+}
+
 .card1 {
     /* Add shadows to create the "card" effect */
-    box-shadow: 0 4px 20px 0 rgba(0,0,0,0.2);
     width: 300px;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 5px 6px 0 rgba(0,0,0,0.2);
     border-radius: 10px; /* 5px rounded corners */
     color: #51c4e9;
     
   }
+
   /* Add some padding inside the card container */
   .container3 {
     padding: 2px 5px;
@@ -71,9 +76,8 @@ img {
 
   .card2 {
     /* Add shadows to create the "card" effect */
-    box-shadow: 0 4px 20px 0 rgba(0,0,0,0.2);
     width: 300px;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 5px 6px 0 rgba(0,0,0,0.2);
     border-radius: 10px; /* 5px rounded corners */
     color: #51c4e9
   }
@@ -85,9 +89,8 @@ img {
 
   .card3 {
     /* Add shadows to create the "card" effect */
-    box-shadow: 0 4px 20px 0 rgba(0,0,0,0.2);
     width: 300px;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 5px 6px 0 rgba(0,0,0,0.2);
     border-radius: 10px; /* 5px rounded corners */
     color: #51c4e9
   }
@@ -99,9 +102,8 @@ img {
 
   .card4 {
     /* Add shadows to create the "card" effect */
-    box-shadow: 0 4px 20px 0 rgba(0,0,0,0.2);
     width: 300px;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 5px 6px 0 rgba(0,0,0,0.2);
     border-radius: 10px; /* 5px rounded corners */
     color: #51c4e9
   }
@@ -113,9 +115,8 @@ img {
 
   .card5 {
     /* Add shadows to create the "card" effect */
-    box-shadow: 0 4px 20px 0 rgba(0,0,0,0.2);
     width: 300px;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 5px 6px 0 rgba(0,0,0,0.2);
     border-radius: 10px; /* 5px rounded corners */
     color: #51c4e9
   }
@@ -128,9 +129,8 @@ img {
 
   .card6 {
     /* Add shadows to create the "card" effect */
-    box-shadow: 0 4px 20px 0 rgba(0,0,0,0.2);
     width: 300px;
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 5px 6px 0 rgba(0,0,0,0.2);
     border-radius: 10px; /* 5px rounded corners */
     color: #51c4e9
   }
