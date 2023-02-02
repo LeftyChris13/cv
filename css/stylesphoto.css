@@ -25,6 +25,9 @@ hr {
 
 }
 
+img {
+    height: 400px;
+}
 
 .img1 {
     background-color: rgb(91, 231, 224);
@@ -37,10 +40,105 @@ hr {
     border-radius: 30px;  
 }
 
-img {
-    height: 400px;
+.img2 {
+    height: 380px; 
+    width: 300px;
 }
 
+.img3 {
+    height: 380px; 
+    width: 300px;
+}
+
+.card1 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 20px 0 rgba(0,0,0,0.2);
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 10px; /* 5px rounded corners */
+    color: #51c4e9;
+    
+  }
+  /* Add some padding inside the card container */
+  .container3 {
+    padding: 2px 5px;
+  }
+
+  /* Add rounded corners to the top left and the top right corner of the image */
+  img {
+    border-radius: 10px 10px 0 0;
+  }
+
+  .card2 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 20px 0 rgba(0,0,0,0.2);
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 10px; /* 5px rounded corners */
+    color: #51c4e9
+  }
+
+  /* Add rounded corners to the top left and the top right corner of the image */
+  img {
+    border-radius: 10px 10px 0 0;
+  }
+
+  .card3 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 20px 0 rgba(0,0,0,0.2);
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 10px; /* 5px rounded corners */
+    color: #51c4e9
+  }
+  
+  /* Add rounded corners to the top left and the top right corner of the image */
+  img {
+    border-radius: 10px 10px 0 0;
+  }
+
+  .card4 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 20px 0 rgba(0,0,0,0.2);
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 10px; /* 5px rounded corners */
+    color: #51c4e9
+  }
+
+  /* Add rounded corners to the top left and the top right corner of the image */
+  img {
+    border-radius: 10px 10px 0 0;
+  }
+
+  .card5 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 20px 0 rgba(0,0,0,0.2);
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 10px; /* 5px rounded corners */
+    color: #51c4e9
+  }
+
+  /* Add rounded corners to the top left and the top right corner of the image */
+  img {
+    border-radius: 10px 10px 0 0;
+  }
+
+
+  .card6 {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 20px 0 rgba(0,0,0,0.2);
+    width: 300px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    border-radius: 10px; /* 5px rounded corners */
+    color: #51c4e9
+  }
+
+  /* Add rounded corners to the top left and the top right corner of the image */
+  img {
+    border-radius: 10px 10px 0 0;
+  }
 
 a {
     color: #142d4c;
@@ -54,7 +152,7 @@ a {
     width: 100%;
     height: 1.5px;
     border-radius: 4px;
-    background-color: #ececec;
+    background-color: #000000;
     bottom: 0;
     left: 0;
     transform-origin: right;
