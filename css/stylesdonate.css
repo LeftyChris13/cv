@@ -1,12 +1,21 @@
 
-body{
-    background-image:url(https://i.gifer.com/9bc1.gif);
-    background-position:top;
-    background-size: contain;
-    background-repeat: no-repeat;
-    
+.Container1{
+    background-color:#51c4e9;
+    height: 150px;
+    position: relative;
+    border-radius: 5px;
+}
 
-    }
+/* Gif */
+.Container2{
+    background-color: rgb(91, 231, 224);
+    height: 175px;
+    width: 360px;
+    position: relative;
+    bottom: 100px;
+    margin: -8px;
+    border-radius: 20px;
+}
 
 hr {
     border-style: ridge;
@@ -15,10 +24,17 @@ hr {
 
 }
 
-img {
-    border-radius: 3px;
-
+.img1 {
+    background-color: rgb(91, 231, 224);
+    height: 150px;
+    width: 150px;
+    position: relative;
+    top: 5px;
+    left: 3px;
+    margin: -7px;
+    border-radius: 30px;  
 }
+
 .center {
     display: block;
     margin-left: auto;
