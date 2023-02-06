@@ -45,17 +45,6 @@ h4 {text-align: center;}
     }
 
 
-/* How to use & Example */
-.Container5{
-    background-color: #ececec;
-    height: 1880px;
-    width: 900px;
-    position: relative;
-    bottom: 10px;
-    left: 90px;
-    border-radius: 20px
-    }
-
      /* Add some padding inside the card container */
   .container6 {
     padding: 4px 5px;
