@@ -109,7 +109,18 @@ hr {
 .card1 {
     /* Add shadows to create the "card" effect */
     width: 550px;
-    box-shadow: 0 5px 30px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,0.2);
+    border-radius: 10px; /* 5px rounded corners */
+    color: #000000;
+    position: relative;
+    left: 250px;
+    bottom: 140px;
+  }
+
+  .card2 {
+    /* Add shadows to create the "card" effect */
+    width: 550px;
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,0.2);
     border-radius: 10px; /* 5px rounded corners */
     color: #000000;
     position: relative;
@@ -117,31 +128,21 @@ hr {
     bottom: 120px;
   }
 
-  .card2 {
-    /* Add shadows to create the "card" effect */
-    width: 550px;
-    box-shadow: 0 5px 30px 0 rgba(0,0,0,0.2);
-    border-radius: 10px; /* 5px rounded corners */
-    color: #000000;
-    position: relative;
-    left: 250px;
-    bottom: 60px;
-  }
-
   .card3 {
     /* Add shadows to create the "card" effect */
     width: 130px;
-    box-shadow: 0 5px 30px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,0.2);
     border-radius: 10px; /* 5px rounded corners */
     color: #000000;
     position: relative;
     left: 250px;
     bottom: 20px;
   }
+
   .card4 {
     /* Add shadows to create the "card" effect */
     width: 350px;
-    box-shadow: 0 5px 30px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,0.2);
     border-radius: 10px; /* 5px rounded corners */
     color: #000000;
     position: relative;
@@ -149,11 +150,10 @@ hr {
     bottom: 290px;
   }
 
-
   .card5 {
     /* Add shadows to create the "card" effect */
     width: 860px;
-    box-shadow: 0 5px 30px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,0.2);
     border-radius: 10px; /* 5px rounded corners */
     color: #000000;
     position: relative;
