@@ -1,3 +1,4 @@
+h2 {text-align: center;}
 
 .Container1{
     background-color:#51c4e9;
@@ -23,42 +24,42 @@ h1{
 
 /* Educator */ 
 .Container3{
-    background-color: #ececec;
+    background-color: #ece6e6;
     height: 200px;
     width: 300px;
     position: relative;
-    bottom: 50px;
-    left: 200px;
+    bottom: 450px;
+    left: 195px;
     border-radius: 20px;
     }
 
 /* Education */
 .Container4{
-    background-color:#51c4e9;
+    background-color:#f8d6a9;
     height: 200px;
     width: 300px;
     position: relative;
-    bottom: 250px;
-    left: 505px;
+    bottom: 350px;
+    left: 195px;
     border-radius: 20px
     }
 
 
  /* Research */
 .Container5{
-    background-color:rgb(91, 231, 224);
-    height: 450px;
+    background-color:rgb(175, 207, 255);
+    height: 550px;
     width: 610px;
     position: relative;
-    bottom: 245px;
-    left: 200px;
+    bottom: 345px;
+    left: 390px;
     border-radius: 20px;
     }
 
 
 .Container6{
-    background-color: #142d4c;
-    height: 400px;
+    background-color:  rgb(233, 109, 109);
+    height: 300px;
     position: static;
     border-radius: 10px;
     }
@@ -75,32 +76,22 @@ img {
     height: 500px;
     width: 500px;
     position: relative;
-    bottom: 50px;
-    left: 250px;
+    bottom: -55px;
+    left: 500px;
     border-radius: 20px;
 }
 
 /* Research */
 .img3 {
     background-repeat: no-repeat;
-    height: 320px;
+    height: 420px;
     width: 600px;
     position: relative;
-    bottom: 570px;
-    left: 205px;
+    bottom: 770px;
+    left: 395px;
     border-radius: 20px;
 }
 
-/* Lefty */
-.img4 {
-    background-repeat: no-repeat;
-    height: 60px;
-    width: 60px;
-    position: relative;
-    top: 250px;
-    right: 150px;
-    border-radius: 20px;
-}
 
   a {
     color: #142d4c;
