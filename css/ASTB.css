@@ -36,7 +36,7 @@ h4 {text-align: center;}
 /* Asset Projection Models */
 .Container4{
     background-color:#ffdaaa;
-    height: 380px;
+    height: 360px;
     width: 360px;
     position: relative;
     bottom: 290px;
@@ -51,7 +51,7 @@ h4 {text-align: center;}
     height: 1880px;
     width: 900px;
     position: absolute;
-    bottom: 90px;
+    bottom: 100px;
     left: 90px;
     border-radius: 20px
     }
