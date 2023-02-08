@@ -52,7 +52,14 @@
     border-radius: 30px;  
 }
 
-
+.card1 {
+    /* Add shadows to create the "card" effect */
+    width: 1700px;
+    box-shadow: 0 5px 5px 0 rgba(0,0,0,0.2);
+    border-radius: 10px; /* 5px rounded corners */
+    color: #51c4e9;
+    
+  }
 
 a {
     color: #142d4c;
